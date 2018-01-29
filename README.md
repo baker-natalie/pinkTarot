@@ -1,2 +1,3 @@
 # pinkTarot
-Draw a card!
+
+This is a live project! Go ahead and [draw a card](nataliebaker.me/pinkTarot)!
